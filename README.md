@@ -1,3 +1,11 @@
+# blackroad-vscode-extension
+
+> VS Code extension for BlackRoad OS — syntax highlighting, snippets, agent tools
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
 # BlackRoad for Visual Studio Code
 
 Official VSCode extension for BlackRoad - manage agents, tasks, memory, and deployments from your IDE.
